@@ -1,0 +1,233 @@
+.left-part
+{
+	    background-color: #202020;
+	    color:#FFFFFF;
+}
+.right-part
+{
+		color:#FFFFFF;
+		background: #272727;
+}
+
+.logo img
+{
+	padding-top: 5px;
+	
+}
+.left-part .logo p
+{
+	padding-left: 10px;
+	color:#FCFCFC;
+	font-size:17px;
+}
+.menu
+{
+	margin-top: 25px;
+
+}
+.menu ul{
+    padding-left: 10px;
+}
+.menu ul li
+{
+	list-style: none;
+}
+.menu ul li a
+{
+	list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+.menu ul li a:hover
+{
+	color:#F39C13;
+}
+.menu span
+{
+	color:#F39C13;
+}
+.margin-top
+{
+	margin-top: 20px;
+}
+.tweet
+{
+	margin-top:20px;
+	padding-left: 10px;
+}
+.tweet-logo
+{
+
+	
+}
+.tweet-logo h3 a
+{
+
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.tweet p
+{
+	padding-bottom: 20px;
+	font-size: 12px;
+	padding-right: 10px;
+}
+.tweet span
+{
+	color: #505050;
+	padding-right: 10px;
+}
+.social
+{
+	padding-bottom: 15px;
+		padding-left: 10px;
+
+	font-size: 20px;
+}
+.social  i
+{
+	font-size: 15px;
+	padding: 0 4px;
+	color: #ffffff;
+}
+.social h3
+{
+	margin:0px;
+	font-size:17px;
+}
+.copyright
+{
+	padding-top: 20px;
+	padding-bottom: 226px;
+}
+.copyright p
+{
+	color: #ffffff;
+	font-size: 10px;
+	padding-top: 0;
+	padding-left: 10px;
+	margin:0px;
+}
+.no-padding{
+    padding: 0;
+}
+.no-margin{
+    margin: 0;
+}
+
+
+
+
+.right-part 
+{
+	
+	padding-top:5px;
+}
+.right-heading h6
+{
+	margin:0px;
+	padding-top: 5px;
+	padding-left:5px;
+	font-size: 52px;
+	color:#F39C13;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.right-heading h4
+{
+	padding-top:0;
+	margin: 0px;
+	padding-left:5px;
+	font-size: 38px;
+	color:#ffffff;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.main-img
+{
+	margin-top:35px;
+}
+.main-img img
+{
+	padding-left: 5px;
+}
+.main-content
+{
+	margin-top: 35px;
+	padding-left:0px;
+}
+.content-one p
+{
+	padding-top: 0px;
+	font-size: 13px;
+	color:#ffffff;
+	padding-right:10px;
+	padding-bottom:20px;
+}
+.content-one p span
+{
+	font-size: 13px;
+	color:#f39c13;
+	text-transform: uppercase;
+	font-weight: 10px;
+	padding-bottom:0px;
+}
+.regards
+{
+	padding-top: 5px;
+
+}
+.regards p
+{
+	margin:0px;
+
+}
+.skill
+{
+	padding-left:5px;
+	padding-bottom: 50px;
+	
+}
+.skill h4
+{
+	padding-top: 20px;
+	color: #ffffff;
+	font-size:20px;
+	font-weight: bold;
+	padding-bottom: 10px;
+
+}
+.skill-bar
+{
+	padding-top: 5px;
+}
+.progress-bar-warning
+{
+	text-align: left;
+	float: left;
+	padding: 10px 5px 0 20px;
+	color:#000;
+	font-size: 12px;
+	
+}
+.custom
+{
+	height: 40px;
+	width: 98%;
+
+
+}
+.progress-bar-default
+{
+	background-color: #202020;
+    color: #fff;
+    text-align: right;
+    padding-right: 12px;
+    padding-top:10px ;
+
+}
