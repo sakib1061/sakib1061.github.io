@@ -76,12 +76,12 @@ a.boxed-btn {
 .service-box:hover .service-box-hover
 {
 bottom: 30px;
-transition: 0.2s;
+transition:all 0.3s;
 }
 .service-box:hover .boxed-btn {
     opacity: 1;
     visibility: visible;
-    transition: 0.2s;
+    transition:all 0.3s;
 }
 .service-box h3 {
     font-size: 21px;
