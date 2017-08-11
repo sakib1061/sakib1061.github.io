@@ -1,0 +1,74 @@
+.alignleft
+{
+	float: left;
+	margin-right: 15px;
+}
+.alignright
+{
+	float: right;
+	margin-left:15px;
+
+}
+.aligncenter
+{
+	display: block;
+	margin: 0 auto 0 0;
+}
+.section-padding
+{
+	margin:110px 0px;
+}
+h1,h2,h4,h5,h3,h6
+{
+	/*font-weight: 700px;
+*/	text-decoration: none;
+	
+}
+.section-title {
+	font-size: 20px;
+	line-height: 1.6;
+	margin-bottom: 50px;
+}
+.contact-us-form {
+	font-size: 17px;
+	font-weight: 400px;
+}
+.contact-us-form input[type="text"], .contact-us-form input[type="email"], .contact-us-form textarea {
+	width: 100%;
+	border: 1px solid #ddd;
+	padding: 20px;
+	font-size: 15px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 25px;
+	transition: 0.2s;
+}
+p.form-element {
+	position: relative;
+}
+p.form-element label {
+	position: absolute;
+	text-transform: uppercase;
+	top: 5px;
+	left: 10px;
+	font-size: 15px;
+}
+.contact-us-form textarea {
+	max-height: 150px;
+}
+.contact-us-form input[type="submit"] {
+	float: right;
+	background-color: #d6100f;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	font-size: 20px;
+}
+.contact-us-form input[type="text"]:focus, .contact-us-form input[type="email"]:focus, .contact-us-form textarea:focus {
+	background-color: #f0f0f0;
+}
+.section-title h2 {
+	text-align: center;
+	font-weight: 700px;
+	font-size: 32px;
+}
