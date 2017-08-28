@@ -1,0 +1,45 @@
+.section-padding
+{
+	padding: 80px 0px;
+}
+.absulate-bg-1:after
+{
+	background-image: url(../img/Class9/bg1.jpg);
+}
+.absulate-bg-2:after
+{
+	background-image: url(../img/Class9/bg2.jpg);
+}
+.section-padding.absulate-bg-1::after, .section-padding.absulate-bg-2::after {
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+	width: 65%;
+	content: "";
+	z-index: -1;
+	background-image: cover;
+}
+.section-padding {
+	position: relative;
+	z-index: 1;
+}
+.boxed-content {
+	box-shadow: 0 0 4px #ccc;
+	padding: 50px;
+	text-align: center;
+	background: #fff;
+}
+.boxed-btn {
+	background: #ffce43;
+	color: #333;
+	padding: 10px;
+	display: inline-block;
+}
+.section-padding.absulate-bg-2::after {
+	right: auto;
+	left: ;
+}
+.section-padding.absulate-bg-1, .section-padding.absulate-bg-2 {
+	margin-top: 25px;
+}
